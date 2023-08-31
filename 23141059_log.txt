@@ -1,4 +1,4 @@
-Line no 1: Token <DEF> Lexeme def found
+Line no 1: Token <ID> Lexeme def found
 
 Line no 1: Token <ID> Lexeme for_loop found
 
@@ -8,23 +8,21 @@ Line no 1: Token <RPAREN> Lexeme ) found
 
 Line no 1: Token <COLON> Lexeme : found
 
-Line no 2: Token <FOR> Lexeme for found
+Line no 2: Token <ID> Lexeme for found
 
 Line no 2: Token <ID> Lexeme i found
 
-Line no 2: Token <IN> Lexeme in found
+Line no 2: Token <ID> Lexeme in found
 
-Line no 2: Token <RANGE> Lexeme range found
+Line no 2: Token <ID> Lexeme range found
 
 Line no 2: Token <LPAREN> Lexeme ( found
-
-Line no 2: Token <CONST_INT> Lexeme 10 found
 
 Line no 2: Token <RPAREN> Lexeme ) found
 
 Line no 2: Token <COLON> Lexeme : found
 
-Line no 3: Token <PRINT> Lexeme print found
+Line no 3: Token <ID> Lexeme print found
 
 Line no 3: Token <LPAREN> Lexeme ( found
 
@@ -36,15 +34,11 @@ Line no 5: Token <ID> Lexeme a found
 
 Line no 5: Token <ASSIGNOP> Lexeme = found
 
-Line no 5: Token <CONST_INT> Lexeme 10 found
-
 Line no 6: Token <ID> Lexeme b found
 
 Line no 6: Token <ASSIGNOP> Lexeme = found
 
-Line no 6: Token <CONST_INT> Lexeme 20 found
-
-Line no 7: Token <IF> Lexeme if found
+Line no 7: Token <ID> Lexeme if found
 
 Line no 7: Token <LPAREN> Lexeme ( found
 
@@ -58,7 +52,7 @@ Line no 7: Token <RPAREN> Lexeme ) found
 
 Line no 7: Token <COLON> Lexeme : found
 
-Line no 8: Token <PRINT> Lexeme print found
+Line no 8: Token <ID> Lexeme print found
 
 Line no 8: Token <LPAREN> Lexeme ( found
 
@@ -66,11 +60,11 @@ Line no 8: Token <ID> Lexeme a found
 
 Line no 8: Token <RPAREN> Lexeme ) found
 
-Line no 9: Token <ELSE> Lexeme else found
+Line no 9: Token <ID> Lexeme else found
 
 Line no 9: Token <COLON> Lexeme : found
 
-Line no 10: Token <PRINT> Lexeme print found
+Line no 10: Token <ID> Lexeme print found
 
 Line no 10: Token <LPAREN> Lexeme ( found
 
@@ -78,8 +72,6 @@ Line no 10: Token <ID> Lexeme b found
 
 Line no 10: Token <RPAREN> Lexeme ) found
 
-Line no 11: Token <RETURN> Lexeme return found
-
-Line no 11: Token <CONST_INT> Lexeme 0 found
+Line no 11: Token <ID> Lexeme return found
 
 Total lines: 11
